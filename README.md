@@ -13,7 +13,7 @@
 <hr>
  
 ### :man_technologist: About Me :
- - Machine-learning engineer in Skoltech :classical_building:
+ - Machine-learning engineer :classical_building:
  - Ask me about MACHINE LEARNING 💬
  - Creator nature
  - Russian, English
