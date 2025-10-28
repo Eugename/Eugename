@@ -38,9 +38,7 @@
 Yes, my language is jupyter notebook O_O
 
 ### Commits:
-<div> 
-  ![Snake animation](https://github.com/Eugename/Eugename/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/Eugename/Eugename/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Eugename/Eugename** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
